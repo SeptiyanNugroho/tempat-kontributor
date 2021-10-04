@@ -8,7 +8,7 @@ draft: false
 
 # Hosting Gratis
 
-![Gambar artis](./000webhost.jpg)
+![Gambar artis](./artist.jpg)
 
 
 <br>
